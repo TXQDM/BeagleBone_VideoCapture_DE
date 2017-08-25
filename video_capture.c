@@ -4,6 +4,7 @@
  *  Modifications: Added support for capturing YUV videos with resolution 320x240 by forcing -f
  *                 Increased the Select() timeout from 2s to 30s to resolve select timeout error.
  *                 For more details, please visit www.deeplyembedded.org
+ *  Date: 25th August 2017
  *
  *  V4L2 video capture example
  *
