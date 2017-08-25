@@ -1,22 +1,18 @@
-boneCV
+BeagleBone_VideoCapture_DE
 ======
 
-Beaglebone Webcam and OpenCV Examples Repository.
-
-Copyright Derek Molloy, School of Electronic Engineering, Dublin City University
+Beaglebone Webcam/video capture example Repository using the Logitech C310.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted
 provided that source code redistributions retain this notice.
 
 This software is provided AS IS and it comes with no warranties of any type. 
 
-The description of the code presented here is on the website: www.derekmolloy.ie. If you use this code 
-or the content of the associated video in your research, please cite:
+The description and modifications of the code presented here is on the website: www.deeplyembedded.org. If you use this code in your research, please cite:
 
-Molloy, D. [DerekMolloyDCU]. (2013, May, 25). Beaglebone: Video Capture and Image Processing 
-on Embedded Linux using OpenCV [Video file]. Retrieved from http://www.youtube.com/watch?v=8QouvYMfmQo
+Demo videos for the working of this source code are retrieved from http://www.youtube.com/
 
-Please find more information on these videos at: http://www.derekmolloy.ie/  
+Please find more information on these videos at: http://www.deeplyembedded.org/  
 
 
 # BeagleBone_VideoCapture_DE
