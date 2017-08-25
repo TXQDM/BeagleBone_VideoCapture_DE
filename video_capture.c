@@ -1,14 +1,16 @@
 /*
- *  V4L2 video capture example, modified by Derek Molloy for the Logitech C920 camera
- *  Modifications, added the -F mode for H264 capture and associated help detail
- *  www.derekmolloy.ie
+ *  V4L2 video capture example, modified by Vinay Divakar for the Logitech C310 camera
+ *  Note: This example was taken from www.derekmolloy.ie and was modified to meet my camera requirements.
+ *  Modifications: Added support for capturing YUV videos with resolution 320x240 by forcing -f
+ *                 Increased the Select() timeout from 2s to 30s to resolve select timeout error.
+ *                 For more details, please visit www.deeplyembedded.org
  *
  *  V4L2 video capture example
  *
  *  This program can be used and distributed without restrictions.
  *
- *      This program is provided with the V4L2 API
- * see http://linuxtv.org/docs.php for more information
+ * This program is provided with the V4L2 API
+ * see http://linuxtv.org for more information
  */
 
 #include <stdio.h>
